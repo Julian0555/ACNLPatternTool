@@ -78,6 +78,7 @@ const tank_simp = loadFolder("tank_simp");
 const tee_short = loadFolder("tee_short");
 const dressshirt_long = loadFolder("dressshirt_long");
 const sweater = loadFolder("sweater");
+const standee = loadFolder("standee");
 const hoodie = loadFolder("hoodie");
 const coat = loadFolder("coat");
 
@@ -107,6 +108,7 @@ module.exports = {
   tee_short,
   dressshirt_long,
   sweater,
+  standee,
   hoodie,
   coat,
 }

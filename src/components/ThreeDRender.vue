@@ -168,6 +168,10 @@ export default {
             path = injected.hat;
             modelType = 2;
           break;
+          case 8:
+            path = injected.standee;
+            modelType = 0;
+          break;
           case 9:
             path = injected.easel;
             modelType = 0;

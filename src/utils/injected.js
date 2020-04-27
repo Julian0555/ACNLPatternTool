@@ -32,6 +32,7 @@ let {
   tee_short,
   dressshirt_long,
   sweater,
+  standee,
   hoodie,
   coat,
 } = process.injected;
@@ -72,6 +73,7 @@ export default {
   tee_short,
   dressshirt_long,
   sweater,
+  standee,
   hoodie,
   coat,
 };
